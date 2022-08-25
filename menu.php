@@ -36,7 +36,7 @@ include 'koneksi.php';
             <li><a class="dropdown-item" href="#">Something else here</a></li>
           </ul>
         </li> -->&nbsp;&nbsp;
-        <button type="button" class="btn btn-sm" style="border-radius: 12px; height: 28px; margin-top: 5px; background-color: #00FFFF;">&nbsp;&nbsp;Login&nbsp;&nbsp;</button>
+        <a href="home.php" class="btn btn-sm justify-content-center align-items-center" style="border-radius: 12px; height: 28px; margin-top: 5px; background-color: #00FFFF;">&nbsp;&nbsp;Login&nbsp;&nbsp;</a>
 
       </ul>
     </div>
