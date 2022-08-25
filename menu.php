@@ -36,66 +36,9 @@ include 'koneksi.php';
             <li><a class="dropdown-item" href="#">Something else here</a></li>
           </ul>
         </li> -->&nbsp;&nbsp;
-        <button type="button" class="btn btn-sm" data-bs-toggle="modal" data-bs-target="#exampleModal" style="border-radius: 12px; height: 28px; margin-top: 5px; background-color: #00FFFF;">&nbsp;&nbsp;Login&nbsp;&nbsp;</button>
+        <button type="button" class="btn btn-sm" style="border-radius: 12px; height: 28px; margin-top: 5px; background-color: #00FFFF;">&nbsp;&nbsp;Login&nbsp;&nbsp;</button>
 
       </ul>
     </div>
 </nav>
 <!-- end nav -->
-
-
-        <!-- Modal -->
-          <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-            <div class="modal-dialog modal-sm">
-              <div class="modal-content">
-                <div class="modal-header">
-                  <h5 class="modal-title" id="exampleModalLabel">Login</h5>
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                  <div class="d-grid gap-2 col mx-auto">
-                    <a href="loginigdcc.php" class="btn btn-outline-primary">Si IGD CC</a>
-                    <!-- <a href="loginkkp.php" class="btn btn-outline-primary">Si Admin TU</a>
-                    <a href="logint1a.php" class="btn btn-outline-primary">Si T1A</a>
-                    <a href="logint1shapirevip.php" class="btn btn-outline-primary">Si  T1 Shapire VIP</a>
-                    <a href="logint2dedomestik.php" class="btn btn-outline-primary">Si T2D-E Domestik</a>
-                    <a href="logint3domestik.php" class="btn btn-outline-primary">Si T3 Domestik</a> -->
-                  </div>
-                </div>
-                <div class="modal-body">
-                  <div class="d-grid gap-2 col mx-auto">
-                    <a href="loginkkp.php" class="btn btn-outline-primary">Si Admin TU</a>
-                  </div>
-                </div>
-                <div class="modal-body">
-                  <div class="d-grid gap-2 col mx-auto">
-                    <a href="logint1a.php" class="btn btn-outline-primary">Si T1A</a>
-                  </div>
-                </div>
-                <div class="modal-body">
-                  <div class="d-grid gap-2 col mx-auto">
-                    <a href="logint1shapirevip.php" class="btn btn-outline-primary">Si  T1 Shapire VIP</a>
-                  </div>
-                </div>
-                <div class="modal-body">
-                  <div class="d-grid gap-2 col mx-auto">
-                    <a href="logint2dedomestik.php" class="btn btn-outline-primary">Si T2D-E Domestik</a>
-                  </div>
-                </div>
-                <div class="modal-body">
-                  <div class="d-grid gap-2 col mx-auto">
-                    <a href="logint3domestik.php" class="btn btn-outline-primary">Si T3 Domestik</a>
-                  </div>
-                </div>
-                <div class="modal-body">
-                  <div class="d-grid gap-2 col mx-auto">
-                    <a href="logint3internasional.php" class="btn btn-outline-primary">Si T3 Internasional</a>
-                  </div>
-                </div> -->
-                <div class="modal-footer">
-                  <button type="button" class="btn btn-sm btn-outline-danger" data-bs-dismiss="modal">Tutup</button>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- end modal login -->
